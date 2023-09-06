@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a1b3268ce27e7f847852827132b25ad1
+guid: eb410f8a80e7d3a49870da9fcd6e6ace
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: buggy
-    second: {fileID: 2100000, guid: 5e93debc4d0945141a149e771034b757, type: 2}
+    second: {fileID: 2100000, guid: 23290ff9d599bd6458bcd4b7e562235c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
